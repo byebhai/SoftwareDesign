@@ -45,5 +45,33 @@ namespace TwoDArray
         {
             return i >= collection.Rows();
         }
+
+        // move to the next element of the iteration
+        // but reverse the direction of the array
+        public void NextTurn()
+        {
+            if (i % 2 == 0)
+            {
+                if (j >= collection.Columns() - 1)
+                {
+                    i++;
+                }
+                else
+                {
+                    j++;
+                }
+            }
+            else
+            {
+                if (j == 0)
+                {
+                    i++;
+                }
+                else
+                {
+                    j--;
+                }
+            }
+        }
     }
 }

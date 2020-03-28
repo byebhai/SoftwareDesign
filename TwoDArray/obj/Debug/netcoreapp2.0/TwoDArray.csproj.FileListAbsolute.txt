@@ -17,3 +17,14 @@ C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.AssemblyInfo.cs
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.dll
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.pdb
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp2.0\TwoDArray.deps.json
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp2.0\TwoDArray.runtimeconfig.json
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp2.0\TwoDArray.runtimeconfig.dev.json
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp2.0\TwoDArray.dll
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp2.0\TwoDArray.pdb
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.csprojAssemblyReference.cache
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.csproj.CoreCompileInputs.cache
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.AssemblyInfoInputs.cache
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.AssemblyInfo.cs
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.dll
+C:\Users\Bhairavi\Documents\GitHub\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp2.0\TwoDArray.pdb

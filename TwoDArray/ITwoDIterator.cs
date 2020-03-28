@@ -18,5 +18,7 @@ namespace TwoDArray
 
         // is the iteration finished?
         bool IsDone();
+
+        void NextTurn();
     }
 }
